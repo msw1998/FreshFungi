@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "354578488845",
+    "project_id": "mushroom-test-84e6f",
+    "storage_bucket": "mushroom-test-84e6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354578488845:android:ce737a0e5bc58c2455bf44",
+        "android_client_info": {
+          "package_name": "com.example.freshfungi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354578488845-sephnmb1ckkn7g0jvj26r917fpnv1grf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANzFealYHB3f7VoW2W1jHDz_AQEqfrTY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354578488845-sephnmb1ckkn7g0jvj26r917fpnv1grf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
